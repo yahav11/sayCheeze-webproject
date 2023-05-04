@@ -1,0 +1,167 @@
+*{
+   /* outline: red dashed 1px;*/
+   
+    background-color:black;
+    color: white;
+    
+}
+
+.startvid{
+    display: inline;
+    float: right;
+    margin-right: 0px;
+    
+   
+}
+
+body{
+   
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top-banner{
+    align-content: end;
+    float: left;
+    display: block;
+    grid-row: 1;
+    text-decoration: none;
+    
+    
+   }
+   
+   a:visited{
+    text-decoration: none;
+   }
+   p{
+    color: white;
+    
+   }
+   a:active{
+    text-decoration: none;
+    
+   }
+   a:hover{
+    color:rgb(158, 82, 82);
+    font-size: 15px;
+     
+    
+   }
+   a{
+    color: white;
+    text-decoration: none;
+    
+   }
+  button{
+   padding: 10px;
+   border-radius: 15px;
+   font-size: 15px;
+   display: block;
+   text-transform:uppercase;
+ 
+ margin-left: auto;
+ margin-right: auto;
+ width: 10%;
+ text-align: center;
+ border: 5px;
+  border-color: rgb(158, 82, 82);
+  box-shadow: 0 5px 15px rgb(158, 82, 82);
+  } 
+
+  button:hover{
+    
+    text-decoration:solid;
+    color: white;
+    
+
+  }
+  h3{
+    display: block;
+    text-transform:uppercase;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .text2{
+    display: inline;
+    float: right;
+
+  }
+  .pic2{
+    display: inline;
+    float: left;
+  }
+  .pic3{
+    display: inline;
+    float: right;
+  }
+  .text3{
+    display: inline;
+  }
+ 
+
+.brandname:hover{
+  text-decoration: wavy underline;
+  text-decoration-color: rgb(158, 82, 82);
+}
+
+.brandname{
+
+  display: inline;
+}
+.btn{
+  width: 50%;
+  color:black;
+  
+}
+
+.btn:hover{
+  font-weight: bolder;
+  font-size: 17px;
+  border: 5px;
+  border-color: rgb(158, 82, 82);
+  box-shadow: 0 5px 15px rgb(158, 82, 82);
+  border-radius: 15px;
+  width: 10%;
+}
+img{
+  border-radius: 10px;
+  
+}
+
+img:hover{
+  border: 5px;
+border-color: rgb(158, 82, 82);
+box-shadow: 0 5px 15px rgb(158, 82, 82);
+border-radius: 15px;
+}
+
+
+
+/*iframe{
+  border-color: black;
+}*/
+
+
+video{
+  border-color: black;
+  width: 700px;
+  height:420px;
+}
+
+li{
+  text-decoration-color: black;
+  color: black;
+  display: inline-block;
+  font-size: 30px;
+}
+
+
+.bottom-banner{
+
+border-radius: 10px;
+
+}
